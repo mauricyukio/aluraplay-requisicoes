@@ -62,6 +62,13 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "Orientação a objetos com Roberta Arcoverde",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 10
     }
   ]
 }
